@@ -5,7 +5,7 @@ API REST desenvolvida com base nas aulas ministradas por [Rodrigo Peleias](https
 Portanto o projeto é exatamente idêntico ao original.
 
 Ferramentas utilizadas:
-* Java 14 ou versões superiores.
+* Java 14 .
 * Springboot (MAVEN).
 * Banco de dados.
 * Junit
